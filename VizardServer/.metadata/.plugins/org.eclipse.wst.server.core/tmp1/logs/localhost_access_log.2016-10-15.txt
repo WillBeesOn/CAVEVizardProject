@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:02:03 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:03:44 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:04:12 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:04:33 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:05:12 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:13:20 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+10.0.0.7 - - [15/Oct/2016:00:13:22 -0400] "GET /VizardServer/DataPointServer/1 HTTP/1.1" 101 -
+0:0:0:0:0:0:0:1 - - [15/Oct/2016:00:23:48 -0400] "GET /VizardServer/DataPointServer/0 HTTP/1.1" 101 -
+10.0.0.7 - - [15/Oct/2016:00:24:03 -0400] "GET /VizardServer/DataPointServer/1 HTTP/1.1" 101 -
+10.0.0.7 - - [15/Oct/2016:00:33:30 -0400] "GET /VizardServer/DataPointServer/1 HTTP/1.1" 101 -

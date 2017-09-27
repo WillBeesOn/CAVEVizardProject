@@ -1,0 +1,4 @@
+127.0.0.1 - - [06/Aug/2016:23:31:54 -0400] "GET / HTTP/1.1" 200 11456
+10.0.0.3 - - [06/Aug/2016:23:32:21 -0400] "GET /VizardServer/DataPointServer/1 HTTP/1.1" 101 -
+127.0.0.1 - - [06/Aug/2016:23:39:54 -0400] "GET / HTTP/1.1" 200 11456
+10.0.0.3 - - [06/Aug/2016:23:39:58 -0400] "GET /VizardServer/DataPointServer/1 HTTP/1.1" 101 -

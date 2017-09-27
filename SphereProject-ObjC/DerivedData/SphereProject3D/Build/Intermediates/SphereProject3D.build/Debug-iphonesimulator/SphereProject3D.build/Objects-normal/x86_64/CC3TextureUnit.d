@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Materials/CC3TextureUnit.m \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Materials/CC3TextureUnit.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Textures.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Capabilities.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11StateTracker.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/ccTypes.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Platforms/CCGL.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Platforms/iOS/glu.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Platforms/iOS/EAGLView.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Platforms/iOS/ESRenderer.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Utility/CC3Foundation.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Utility/CC3Math.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Utility/CC3Logging.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Support/CCArray.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Support/ccCArray.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Foundation.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Intercept.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11VertexArrays.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/OpenGLES11/CC3OpenGLES11Matrices.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Nodes/CC3NodeVisitor.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Matrices/CC3Matrix.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Matrices/CC3Matrix4x4.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Matrices/CC3Matrix4x3.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Matrices/CC3Matrix3x3.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos3d/cocos3d/Utility/CC3PerformanceStatistics.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/CCProtocols.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/CCTexture2D.h \
+  /Users/project/Downloads/SphereProject/SphereProject3D/cocos2d/Platforms/CCNS.h
